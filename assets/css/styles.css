@@ -1,0 +1,57 @@
+/* Header */
+.headers-wrap {
+	background: linear-gradient(
+			0deg,
+			rgba(255, 255, 255, 0.7),
+			rgba(253, 253, 253, 0.7)
+		),
+		url("../images/gerbang.jpg") no-repeat center;
+}
+
+.lemdikpol img {
+	margin-top: 50px;
+	margin-left: 650px;
+	width: 150px;
+	height: 150px;
+}
+
+.polda {
+	padding-bottom: 200px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.polda img {
+	margin-top: 0px;
+	margin-left: 80px;
+	width: 150px;
+	height: 150px;
+}
+
+.spn img {
+	margin-bottom: 170px;
+	margin-left: 1020px;
+	width: 150px;
+	height: 150px;
+}
+
+/* Navbar */
+nav {
+	background-color: #000000;
+	letter-spacing: 1px;
+}
+
+.nav-link {
+	color: yellow !important;
+}
+
+/* Background */
+body {
+	background: linear-gradient(
+			0deg,
+			rgba(255, 255, 255, 0.7),
+			rgba(253, 253, 253, 0.7)
+		),
+		url("/images/lambang.jpg") no-repeat center;
+}

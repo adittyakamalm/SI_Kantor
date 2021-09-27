@@ -1,0 +1,37 @@
+/* Header */
+.headers-wrap {
+	position: relative;
+	height: 100vh;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.headers-wrap:before {
+	content: "";
+	width: 1500px;
+	height: 600px;
+	background-image: url("../images/gerbang.jpg");
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	left: 0px;
+	opacity: 0.3;
+}
+
+.content img {
+	margin-bottom: 500px;
+	width: 150px;
+	height: 150px;
+	position: relative;
+}
+
+/* Navbar */
+nav {
+	background-color: #ffb004;
+}
+
+.asw {
+	font-size: 50px;
+}
